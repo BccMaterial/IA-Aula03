@@ -1,5 +1,7 @@
 # Busca Heurística - Prático
 
+> Exercício movido para [BccMaterial/IA-Aulas](https://github.com/BccMaterial/IA-Aulas/tree/main/aula03)
+
 Resolver o problema baixo com código baseado no código em:
 
 REPLIT: https://replit.com/@celsosenac/resolucao-por-busca-heuristica
